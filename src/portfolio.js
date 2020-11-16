@@ -219,7 +219,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "Some hackathon highlights",
+  subtitle: "Hackathon highlights",
   projects: [
     {
       image: require("./assets/images/bobaMapLogo.JPG"),
@@ -236,14 +236,14 @@ const bigProjects = {
 
 const achievementSection = {
 
-  title: emoji("Achievements And Certifications 🏆 "),
-  subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+  title: emoji("Other things I do"),
+  subtitle: "Awards and neat stuff",
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
-      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+      title: "AP Studio Art: 2-D Design Portfolio Exam",
+      subtitle: "1 of 9 students (0.03% of exam takers around the world in 2017) to receive a perfect score.",
+      image: require("./assets/images/myArt.JPG"),
       footerLink: [
         { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
         { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
