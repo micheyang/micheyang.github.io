@@ -162,29 +162,45 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Software Engineer Intern",
+      company: "Barclays",
+      companylogo: require("./assets/images/barclaysLogo.png"),
+      date: "July - August 2020",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Worked from home on the MOTIF team to facilitate cost-benefit calculations on the decommissioning and onboarding of different technologies",
+        "Implemented a report automation tool that reduced cost analysis time by gathering datasets from multiple sources and aggregating specific subsets",
+        "Set up REST API endpoints using Express and JavaScript and integrated them with the backend",
+        "Built the frontend in Angular and utilized Chart.js for visualizations to better observe trends"
+        
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Software Engineer Intern & Part-timer",
+      company: "NCR",
+      companylogo: require("./assets/images/ncrLogo.png"),
+      date: "May - November 2019",
+      desc: "",
+      descBullets: [
+        "Interned on the OPTIC team with a project focused on connecting outdoor payment terminal devices to the cloud through Google Cloud Platform",
+        "Created a cloud client application and simulator using JavaScript to facilitate and demonstrate the flow of data between OPTIC devices and their customers, the development team, and the cloud",
+        "Expanded the functionality of the Node.js app to allow for mass uploading of log files with devices’ statuses and mass downloading of configuration files to update the firmware and UI instantaneously",
+        "Added text-to-speech functionality for the visually impaired customized to customer loyalty information",
+        "Followed agile development with weekly sprints and rotated PM, team lead, and scrum master positions"
+
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Information Systems Management Intern",
+      company: "UPS",
+      companylogo: require("./assets/images/upsLogo.png"),
+      date: "May - August 2018",
+      desc: "",
+      descBullets: [
+        "Focused on system modernization for Mail Innovations using Angular, Visual Studio, and SQL Server",
+        "Completed projects for business need that automated and consolidated existing company features",
+        "Competed in a hackathon with..."
+      ]
     },
   ]
 };
