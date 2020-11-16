@@ -26,7 +26,7 @@ function Header() {
         </label>
         <ul className={isDark ? "dark-menu menu" : "menu"}>
           <li>
-            <a href="#skills">Skills</a>
+            <a href="#skills">What I Like</a>
           </li>
           {exp === true && (
             <li>
@@ -34,16 +34,13 @@ function Header() {
             </li>
           )}
           <li>
-            <a href="#opensource">Open Source</a>
+            <a href="#education">Education</a>
+          </li>
+          <li>
+            <a href="#projects">Projects</a>
           </li>
           <li>
             <a href="#achievements">Achievements</a>
-          </li>
-          <li>
-            <a href="#blogs">Blogs</a>
-          </li>
-          <li>
-            <a href="#talks">Talks</a>
           </li>
           <li>
             <a href="#contact">Contact Me</a>
