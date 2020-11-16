@@ -36,7 +36,11 @@ const skillsSection = {
     emoji("⚡ Full-stack Software Engineering"),
     emoji("⚡ Customer-facing Products"),
     emoji("⚡ Web & Mobile Application Development"),
-    emoji("⚡ Integration with Cloud Services")
+    emoji("⚡ Integration with Cloud Services"),
+    emoji("⚡ Longboarding"),
+    emoji("⚡ Bullet-journaling"),
+    emoji("⚡ Hiking"),
+    emoji("⚡ Creating Art")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -298,7 +302,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle: "Want to discuss a project or just say hi? My inbox is open for all.",
   number: "+1 678 628 9597",
   email_address: "michelleandschool@gmail.com"
 };
