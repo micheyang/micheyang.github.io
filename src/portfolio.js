@@ -184,7 +184,6 @@ const workExperiences = {
       descBullets: [
         "Interned on the OPTIC team with a project focused on connecting outdoor payment terminal devices to the cloud through Google Cloud Platform",
         "Created a cloud client application and simulator using JavaScript to facilitate and demonstrate the flow of data between OPTIC devices and their customers, the development team, and the cloud",
-        "Expanded the functionality of the Node.js app to allow for mass uploading of log files with devices’ statuses and mass downloading of configuration files to update the firmware and UI instantaneously",
         "Added text-to-speech functionality for the visually impaired customized to customer loyalty information",
         "Followed agile development with weekly sprints and rotated PM, team lead, and scrum master positions"
 
@@ -199,7 +198,7 @@ const workExperiences = {
       descBullets: [
         "Focused on system modernization for Mail Innovations using Angular, Visual Studio, and SQL Server",
         "Completed projects for business need that automated and consolidated existing company features",
-        "Competed in a hackathon with..."
+        "Built a low-cost solution to a package scanner with a Raspberry Pi and Bluetooth scanner which would reduce production costs by 98% for the company hackathon"
       ]
     },
   ]
@@ -315,7 +314,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Want to discuss a project or just say hi? My inbox is open for all.",
+  subtitle: "Want to discuss a project or just say hi? My inbox is open!",
   number: "+1 678 628 9597",
   email_address: "michelleandschool@gmail.com"
 };
