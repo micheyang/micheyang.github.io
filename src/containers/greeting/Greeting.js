@@ -44,8 +44,8 @@ export default function Greeting() {
           </div>
           <div className="greeting-image-div">
             <img
-              alt="saad sitting on table"
-              src={require("../../assets/images/manOnTable.svg")}
+              alt="Working on computer"
+              src={require("../../assets/images/working.png")}
             ></img>
           </div>
         </div>
