@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2beb1b507014980d78e02fca37267a08",
+    "revision": "eb6cd89d4183b935612c6dc5c75558a2",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.ee2a0142.chunk.css"
   },
   {
-    "revision": "2308af16dcd1f8d0bf92",
+    "revision": "6007a832d8b91c0f839d",
     "url": "/static/css/main.9b11167b.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.8cfb43cf.chunk.js"
   },
   {
-    "revision": "2308af16dcd1f8d0bf92",
-    "url": "/static/js/main.a624d4f7.chunk.js"
+    "revision": "6007a832d8b91c0f839d",
+    "url": "/static/js/main.779f1bb4.chunk.js"
   },
   {
     "revision": "054e120dd9c34dcade09",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/onphone.d6ab3496.png"
   },
   {
-    "revision": "a990d6733789dd29600e8ad0306a89f4",
-    "url": "/static/media/paypalTeenLogo.a990d673.JPG"
+    "revision": "1a95600563174d67ccb805f5d2195572",
+    "url": "/static/media/paypalTeenLogo.1a956005.JPG"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
