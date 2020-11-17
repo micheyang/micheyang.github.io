@@ -4,6 +4,10 @@
   line-height: normal;
 }
 
+.project-subtitle {
+  text-transform: uppercase;
+}
+
 .startup-project-text img{
   max-width: 100%;
   height: auto;
