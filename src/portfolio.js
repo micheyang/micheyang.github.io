@@ -242,7 +242,7 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "AP Studio Art: 2-D Design Portfolio Exam",
-      subtitle: "1 of 9 students (0.03% of exam takers around the world in 2017) to receive a perfect score.",
+      subtitle: "1 of 9 students (0.03% of exam takers around the world in 2017) to receive a perfect score",
       image: require("./assets/images/myArt.JPG"),
       footerLink: [
         { name: "Award Letter", url: "https://drive.google.com/file/d/1oo2QKwNbys7JR5Zg6wdZhbVwT8SYNt6V/view?usp=sharing" },
@@ -250,19 +250,17 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
+      title: "Hiking Adventures",
+      subtitle: "Photo album coming soon",
+      image: require("./assets/images/hiking.JPG"),
+      footerLink: []
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      title: "Longboarding Compilations",
+      subtitle: "Videos coming soon",
+      image: require("./assets/images/longboarding.JPG"),
       footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
       ]
     }
   ]
