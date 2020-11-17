@@ -33,14 +33,14 @@ const skillsSection = {
   title: "What I like",
   subTitle: "",
   skills: [
-    emoji("⚡ Full-stack Software Engineering"),
-    emoji("⚡ Customer-facing Products"),
-    emoji("⚡ Web & Mobile Application Development"),
-    emoji("⚡ Integration with Cloud Services"),
-    emoji("⚡ Longboarding"),
-    emoji("⚡ Bullet-journaling"),
-    emoji("⚡ Hiking"),
-    emoji("⚡ Creating Art")
+    emoji("✔️ Full-stack Software Engineering"),
+    emoji("✔️ Customer-facing Products"),
+    emoji("✔️ Web & Mobile Application Development"),
+    emoji("✔️ Integration with Cloud Services"),
+    emoji("✔️ Longboarding"),
+    emoji("✔️ Bullet-journaling"),
+    emoji("✔️ Hiking"),
+    emoji("✔️ Creating Art")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -115,7 +115,7 @@ const educationInfo = {
       // desc: "Threads: Intelligence and Media",
       descBullets: [
         "Threads: Intelligence and Media",
-        "GPA: 3.81/4.0",
+        "GPA: 3.81 / 4.0",
         "Honors Progam student and Faculty Honors recipient",
         "National Merit Scholar"
       ]
@@ -236,7 +236,7 @@ const bigProjects = {
 
 const achievementSection = {
 
-  title: emoji("Other things I do"),
+  title: emoji("Other things I've done"),
   subtitle: "Awards and neat stuff",
 
   achievementsCards: [
@@ -245,9 +245,8 @@ const achievementSection = {
       subtitle: "1 of 9 students (0.03% of exam takers around the world in 2017) to receive a perfect score.",
       image: require("./assets/images/myArt.JPG"),
       footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+        { name: "Award Letter", url: "https://drive.google.com/file/d/1oo2QKwNbys7JR5Zg6wdZhbVwT8SYNt6V/view?usp=sharing" },
+        { name: "Portfolio", url: "https://michelleandschool.wixsite.com/balance/concentration" }
       ]
     },
     {
