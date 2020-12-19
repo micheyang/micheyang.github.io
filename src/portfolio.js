@@ -37,6 +37,7 @@ const skillsSection = {
     emoji("✔️ Customer-facing Products"),
     emoji("✔️ Web & Mobile Application Development"),
     emoji("✔️ Integration with Cloud Services"),
+    emoji("✔️ Improving Inclusivity & Accessibility of Technology"),
     emoji("✔️ Longboarding"),
     emoji("✔️ Bullet-journaling"),
     emoji("✔️ Hiking"),
