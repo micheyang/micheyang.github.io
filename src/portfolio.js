@@ -116,7 +116,7 @@ const educationInfo = {
       // desc: "Threads: Intelligence and Media",
       descBullets: [
         "Threads: Intelligence and Media",
-        "GPA: 3.81 / 4.0",
+        "GPA: 3.84 / 4.0",
         "Honors Progam student and Faculty Honors recipient",
         "National Merit Scholar"
       ]
